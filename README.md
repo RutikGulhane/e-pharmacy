@@ -1,1 +1,1 @@
-# E-Pharmacy System
+# E-Pharmacy Store
